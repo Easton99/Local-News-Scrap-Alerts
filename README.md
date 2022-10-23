@@ -56,6 +56,8 @@
 
 ## Helpful Resources
 
+[Semver](https://semver.org/) is a popular versioning methodology used for software releases.
+
 ## Contributing
 
 ## Contributors
