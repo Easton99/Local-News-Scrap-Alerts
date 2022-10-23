@@ -36,6 +36,14 @@
 
 ## Useful Tools and Resources
 
+### VScode Extensions:
+
+#### Required:
+ - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell-Preview) (Requires Powershell 7 installed)
+
+#### Optional: 
+ - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
 ## Recommended Design Resources
 
 ## Pro Tips
