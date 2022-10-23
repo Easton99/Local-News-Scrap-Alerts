@@ -62,6 +62,8 @@
 
 ## Changelog
 
-## License  
+## License 
+
+  [The MIT License](https://opensource.org/licenses/MIT)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
