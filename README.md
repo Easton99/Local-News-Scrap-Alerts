@@ -8,7 +8,7 @@
 
 ## Who We Are
 
-* Project Manager / Lead Developer : Adam Easton
+* Adam Easton : Project Manager / Lead Developer
 * Link to Slack, gitter, IRC channel incoming
 * Twitter handle, website, online documentation incoming
 
