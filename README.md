@@ -16,7 +16,7 @@
 
 ## Features
 
-* Something that scrapes local news sites to send alerts on accidents or delays on roads you drive frequently.
+* Something that scrapes local news sites/other sources to send alerts on accidents or delays on roads you drive frequently and local news in general.
 
 ## Getting Started
 
