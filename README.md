@@ -55,7 +55,10 @@
 
 ## Helpful Resources
 
-[Semver](https://semver.org/) is a popular versioning methodology used for software releases.
+[Semver](https://semver.org/) is a popular versioning methodology used for software releases. \
+[Web Scraping with PowerShell](https://pipe.how/invoke-webscrape/) \
+[Understanding PowerShell Begin, Process, and End blocks](https://4sysops.com/archives/understanding-powershell-begin-process-and-end-blocks/) \
+[PowerShell best pracatces](https://devblogs.microsoft.com/scripting/powershell-best-practices-advanced-functions/)
 
 ## Contributing
 
