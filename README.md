@@ -5,6 +5,9 @@
 - Create Powershell [Module](https://learn.microsoft.com/en-us/powershell/scripting/developer/module/how-to-write-a-powershell-script-module?view=powershell-7.2)
 
 ## Logo/Photo/Screenshot/gif
+![alt text](https://github.com/Easton99/Local-News-Scrap-Alerts/blob/main/Logo.jpg?raw=true
+)
+
 
 ## Who We Are
 
