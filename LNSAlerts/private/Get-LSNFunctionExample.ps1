@@ -1,10 +1,13 @@
 function Get-LNSWebRequest {
     <#
     .SYNOPSIS
+        Short description
 
     .DESCRIPTION
+        Long description
 
     .EXAMPLE
+        Example can be supplied multiple times to show different example cases
 
 #>
 
