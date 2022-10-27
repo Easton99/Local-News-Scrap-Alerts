@@ -1,4 +1,4 @@
-function Get-LNSWebRequest {
+function Get-LSNFunctionExample {
     <#
     .SYNOPSIS
         Short description
